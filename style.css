@@ -3,7 +3,7 @@ body {
   padding: 0;
   background: #f2f2f2;
   font-family: "Acme";
-  background: #000;
+  background: #000000;
 }
 
 .container {
@@ -63,13 +63,14 @@ body {
   box-sizing: border-box;
   padding: 20px;
   color: #000;
+  font-size: small;
 }
 
 .untoldcoding .untoldcoding-details h2 {
   margin: 0;
   padding: 0.5em 0;
   text-transform: uppercase;
-  font-size: 2em;
+  font-size: large;
   background: linear-gradient(to right, #f32170, #ff0c08, #710071, #eedd44);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
